@@ -1,0 +1,6 @@
+Nama: Yasmin
+umur: 19
+Alamat: Tarakan
+Nama: yasmin
+Umur: 28
+Alamat: tarakan
